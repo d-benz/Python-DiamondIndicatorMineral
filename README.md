@@ -1,8 +1,8 @@
 # Python-DiamondIndicatorMineral
 
-Classifying diamond indicator minerals associated with high or low diamond contents.
+These coding companions are designed to take you through the creation of neural networks to classify associated diamond contents for 5 different diamond indicator silicate minerals: G10 garnet (G10), eclogitic garnet (EG), chrome diopside (CRD), olivine (OL) and orthopyroxene (OPX). The csv data files are also available.
 
-These scripts are designed to take you through creating and predicting whether the mineral is associated with rich or poor diamond contents. The csv data files are also available.
+Diamond indicators are minerals that assist explorers in locating areas with diamonds. They were first recognized shortly after the discovery of the first diamond kimberlite pipes in the 1870s. By the 1970s, with the use of a scanning electron microscope (SEM), researchers were classifying these minerals using binary, or X-Y, diagrams to assist explorers with determining the likelihood of finding diamonds, but the classification did not distinguish between the diamond indicators associated with high and low diamond contents. This brings us to machine learning and neural networks. Using data collected from Benz (2006), neural networks were created to assist in the classification of diamond indicator silicate minerals associated with high or low diamond contents. The models created would greatly benefit from more samples from a greater variety of areas and future research would include testing the chemical complexity of SEM data for the ability to create reliable neural network models that could be used to assist exploration planning.
 
 Please note that these scripts use Python-packages that are protected under their own licenses and it's recommended that each license is reviewed prior to use.
 
